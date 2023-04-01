@@ -1,0 +1,15 @@
+{
+  "id": "my-plugin",
+  "name": "My Plugin",
+  "version": "0.1.0",
+  "description": "A plugin that does some stuff",
+  "author": "Your Name",
+  "homepage": "https://github.com/your-username/my-plugin",
+  "minAppVersion": "0.12.10",
+  "compatible": "0.12.*",
+  "dependencies": [],
+  "optionalDependencies": [],
+  "conflicts": [],
+  "tags": ["tag1", "tag2"],
+  "license": "MIT"
+}
